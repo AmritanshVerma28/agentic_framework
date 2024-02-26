@@ -13,5 +13,5 @@ Notes
                                max_consecutive_auto_reply=100,
                            human_input_mode="ALWAYS",llm_config=llm_config)
 
-   3) pip install pyautogen
+3) pip install pyautogen
       (https://microsoft.github.io/autogen/)
